@@ -1,0 +1,4 @@
+password: 11ViEbiO4RDF70Eg
+username: divyavaibhav123_db_user
+
+mongodb+srv://admin:admin123@chatapp.6pnddh4.mongodb.net/?appName=chatApp
